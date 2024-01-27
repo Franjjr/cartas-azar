@@ -1,0 +1,15 @@
+body {
+    background-color: green;
+  }
+  
+  .texto-muy-grande {
+    font-size: 7rem !important;
+  }
+  .texto-mediano {
+    font-size: 3rem !important;
+  }
+  
+  .icono2 {
+    transform: rotate(180deg);
+  }
+  
